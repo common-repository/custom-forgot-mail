@@ -1,0 +1,41 @@
+# Copyright (C) 2024 Galaxy Weblinks
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Forgot Password Mail 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-forgot-mail\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-28T10:24:55+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: custom-forgot-mail\n"
+
+#. Plugin Name of the plugin
+#: index.php:24
+#: index.php:25
+msgid "Custom Forgot Password Mail"
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin to create custom forgot mail"
+msgstr ""
+
+#. Author of the plugin
+msgid "Galaxy Weblinks"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/galaxyweblinks/"
+msgstr ""
+
+#: index.php:43
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: index.php:71
+msgid "Forgot Password Custom Email:"
+msgstr ""
